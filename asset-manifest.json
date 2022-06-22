@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43cc462f.css",
+    "main.js": "/static/js/main.0120ab8d.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/futuraasia.png": "/static/media/futuraasia.549e4f1f76f2aee353d0.png",
+    "static/media/working.jpg": "/static/media/working.cb0e059534413a240a18.jpg",
+    "static/media/convertini.PNG": "/static/media/convertini.bc630894f873b3df3a15.PNG",
+    "static/media/instagram.PNG": "/static/media/instagram.7cd52f3a1d98ccbf894c.PNG",
+    "static/media/boch.png": "/static/media/boch.a5f359bf277fce723a49.png",
+    "static/media/me.png": "/static/media/me.4c70363f5a027a58856a.png",
+    "static/media/CV__Schwabauer.pdf": "/static/media/CV__Schwabauer.1a964bb34f7243fa071d.pdf",
+    "static/media/discord.png": "/static/media/discord.c6e1a0c6e666abbc35ec.png",
+    "static/media/to-do-list.png": "/static/media/to-do-list.09bd735628916e1b8b9d.png",
+    "index.html": "/index.html",
+    "main.43cc462f.css.map": "/static/css/main.43cc462f.css.map",
+    "main.0120ab8d.js.map": "/static/js/main.0120ab8d.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cc462f.css",
+    "static/js/main.0120ab8d.js"
+  ]
+}
